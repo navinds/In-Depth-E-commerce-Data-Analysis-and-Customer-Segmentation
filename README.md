@@ -5,7 +5,7 @@ This project analyzes a dataset of 100K orders from Olist, a Brazilian e-commerc
 
 ## Technologies Used
 - **Programming Language:** Python
-- **Libraries:** Pandas, Plotly, Sk learn 
+- **Libraries:** Pandas, Plotly, scikit-learn
 - **Tools:** Jupyter Notebook
 
 ## Analysis and Visualizations
