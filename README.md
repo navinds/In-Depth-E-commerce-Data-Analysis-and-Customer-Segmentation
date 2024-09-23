@@ -61,4 +61,4 @@ The project is divided into several key areas of analysis:
 For any queries, feel free to reach out:
 - **Email:** navin.workwise@gmail.com
 - **LinkedIn:** [navinkumarsofficial](https://www.linkedin.com/in/navinkumarsofficial)
-- - **Portfolio Site:** [Click](https://navinswork.wixsite.com/portfolio)
+- **Portfolio Site:** [Click](https://navinswork.wixsite.com/portfolio)
